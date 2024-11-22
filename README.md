@@ -49,7 +49,7 @@ This Arduino-based **Smart Irrigation System** is designed to automate plant wat
 
 ## Wiring Diagram
 
-*Include your wiring diagram photo here.*
+![Wiring Diagram](images/SmartIrrigationSystem_CD.png)
 
 ---
 
@@ -112,12 +112,13 @@ This Arduino-based **Smart Irrigation System** is designed to automate plant wat
 ## Gallery
 
 System Overview
-Add photo of your setup here.
+![System Overview](images/SmartIrrigationSystem_box.png)
+![System Overview](images/SmartIrrigationSystem_box_pump.png)
+![System Overview](images/SmartIrrigationSystem_sensors.png)
+![System Overview](images/SmartIrrigationSystem_SoilMoisture.jpg)
 
 LCD Display Examples
-Add photos of the LCD in different states.
-
-Wiring Setup
-Add photo of the wiring and components here.
-
+![LCD1](images/SmartIrrigationSystem_D1.png)
+![LCD2](images/SmartIrrigationSystem_D2.png)
+![LCD3](images/SmartIrrigationSystem_D3.png)
 
